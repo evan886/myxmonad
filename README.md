@@ -1,10 +1,10 @@
 xmonad-ubuntu-conf
 ==================
 
-My xmonad config for Ubuntu 12.04, including package list, config files, and instructions.
+My xmonad config for  Kali 2016  Debian8  Ubuntu , including package list, config files, and instructions.
 
 changelog  --by evan886@gmail.com
-不显示声音相关的  volume  etc 
+不显示声音相关的  volume, add trayer  201609  etc 
 Overview
 --------
 
