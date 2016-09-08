@@ -1,10 +1,7 @@
-myxmonad
+xmonad-ubuntu-conf
 ==================
 
-My xmonad config for kali2, including package list, config files, and instructions.
-https://github.com/evan886/myxmonad
-
-首先感谢    https://github.com/davidbrewer/xmonad-ubuntu-conf
+My xmonad config for Ubuntu 12.04, including package list, config files, and instructions.
 
 changelog  --by evan886@gmail.com
 不显示声音相关的  volume  etc 

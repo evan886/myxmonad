@@ -54,7 +54,8 @@ xcompmgr -n &
 #
 
 # To set your backgrounds, run nitrogren /path/to/images
-nitrogen --restore &
+#nitrogen --restore &
+nitrogen  /home/evan/images/089.jpg &
 
 
 #
