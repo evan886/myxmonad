@@ -1,0 +1,7 @@
+* install
+** Use a pre-built binary  
+  pkg install hs-xmonad  trayer  libghc-xmonad-dev libghc-xmonad-contrib-dev xmobar xcompmgr nitrogen stalonetray moreutils synapse  terminator remmina dmenu dzen rxvt-unicode 
+
+* see also
+
+https://xmonad.org/download.html
