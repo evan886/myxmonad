@@ -2,6 +2,9 @@
 ** Use a pre-built binary  
   pkg install hs-xmonad  trayer  libghc-xmonad-dev libghc-xmonad-contrib-dev xmobar xcompmgr nitrogen stalonetray moreutils synapse  terminator remmina dmenu dzen rxvt-unicode 
 
+* usage 
+ Alt+Q 键盘快捷方式重新加载配置
+
 * see also
 
 http://www.ruanyifeng.com/blog/2017/07/xmonad.html
