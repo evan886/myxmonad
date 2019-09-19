@@ -6,6 +6,7 @@
  Alt+Q 键盘快捷方式重新加载配置
 
 * see also
+https://wiki.haskell.org/Xmonad
 
 http://www.ruanyifeng.com/blog/2017/07/xmonad.html
 
