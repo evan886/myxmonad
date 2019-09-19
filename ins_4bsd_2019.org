@@ -1,6 +1,10 @@
 * install
 ** Use a pre-built binary  
   pkg install hs-xmonad  trayer  libghc-xmonad-dev libghc-xmonad-contrib-dev xmobar xcompmgr nitrogen stalonetray moreutils synapse  terminator remmina dmenu dzen rxvt-unicode 
+x11-wm/hs-xmonad-contrib x11-wm/hs-xmonad
+
+xmonad can be installed from source on any system with an up-to-date Haskell toolchain:
+ $ cabal install xmonad
 
 * usage 
  Alt+Q 键盘快捷方式重新加载配置
