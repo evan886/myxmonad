@@ -2,6 +2,18 @@
 ** Use a pre-built binary  
   pkg install hs-xmonad  trayer  libghc-xmonad-dev libghc-xmonad-contrib-dev xmobar xcompmgr nitrogen stalonetray moreutils synapse  terminator remmina dmenu dzen rxvt-unicode 
 
+* usage 
+ Alt+Q 键盘快捷方式重新加载配置
+
 * see also
+https://wiki.haskell.org/Xmonad/Config_archive/John_Goerzen's_Configuration
+
+http://www.ruanyifeng.com/blog/2017/07/xmonad.html
+
+https://wiki.archlinux.org/index.php/Xmonad_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)
 
 https://xmonad.org/download.html
+
+https://github.com/xmonad/xmonad
+
+

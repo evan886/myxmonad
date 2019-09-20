@@ -2,10 +2,37 @@
 ** Use a pre-built binary  
   pkg install hs-xmonad  trayer  libghc-xmonad-dev libghc-xmonad-contrib-dev xmobar xcompmgr nitrogen stalonetray moreutils synapse  terminator remmina dmenu dzen rxvt-unicode 
 
+	sudo pkg install -y xscreensaver
+
+xscreensaver -nosplash&
+
+** AUTO APPS 
+ unknow how to auto run apps  on xmonad  so  
+
+write to  vga 
+
+#auto run apps
+synapse  -s   &
+fcitx -r  &
+xrdb /home/evan/.Xresources
+
+
 * usage 
  Alt+Q 键盘快捷方式重新加载配置
 
+
+* Automatically starting applications on xmonad startup 
+
+
+
+* troubleshooting 
+rednotebook  有是用synapse 启动不了 但是alt+p 可以启动，但是apt + p  刚刚开始是不能用的 
+
+
+
 * see also
+一个容易的入门配置
+https://wiki.haskell.org/Xmonad/Config_archive/John_Goerzen's_Configuration
 
 http://www.ruanyifeng.com/blog/2017/07/xmonad.html
 
