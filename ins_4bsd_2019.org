@@ -6,12 +6,23 @@ x11-wm/hs-xmonad-contrib x11-wm/hs-xmonad
 xmonad can be installed from source on any system with an up-to-date Haskell toolchain:
  $ cabal install xmonad
 
-
+** screen saver and locker 
 	sudo pkg install -y xscreensaver
 xscreensaver -nosplash&
 xscreensaver-command -lock
 
-** AUTO APPS 
+https://wiki.archlinux.org/index.php/XScreenSaver
+
+
+
+
+
+* usage 
+ Alt+Q 键盘快捷方式重新加载配置
+
+
+* Automatically starting applications on xmonad startup 
+AUTO APPS 
  unknow how to auto run apps  on xmonad  so  
 
 write to  vga 
@@ -21,12 +32,11 @@ synapse  -s   &
 fcitx -r  &
 xrdb /home/evan/.Xresources
 
+https://unix.stackexchange.com/questions/64513/run-xmonads-startup-hook-only-on-initial-startup
 
-* usage 
- Alt+Q 键盘快捷方式重新加载配置
+https://bbs.archlinux.org/viewtopic.php?id=70933
 
-
-* Automatically starting applications on xmonad startup 
+https://stackoverflow.com/questions/10976044/xmonad-spawn-programs-on-startup-in-specified-workspace
 
 
 
