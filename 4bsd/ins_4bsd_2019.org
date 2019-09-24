@@ -1,0 +1,33 @@
+* pre 
+xmonad.hs20190921-1308 这个是x抄别人的 可以用的 只是功能不够:
+
+xmonad-x86_64-freebsd 有这个bin 文件就是成功的了
+
+* install
+** Use a pre-built binary  
+  pkg install hs-xmonad hs-xmobar  xcompmgr trayer    hs-xmonad-contrib xcompmgr scrot nitrogen stalonetray moreutils dmenu dzen   libghc-xmonad-dev     #synapse  terminator   
+
+** auto run  xmobar
+
+https://wiki.haskell.org/Xmonad/Config_archive/John_Goerzen's_Configuration
+https://unix.stackexchange.com/questions/175127/xmobar-doesnt-appear
+* usage 
+ Alt+Q 键盘快捷方式重新加载配置
+
+* trouble 
+ hs-xmobar   in first not ins  laster serarch  freebsd xmonbar get the name  is  hs-xmobar
+
+
+* see also
+一个容易的入门配置
+https://wiki.haskell.org/Xmonad/Config_archive/John_Goerzen's_Configuration
+
+http://www.ruanyifeng.com/blog/2017/07/xmonad.html
+
+https://wiki.archlinux.org/index.php/Xmonad_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)
+
+https://xmonad.org/download.html
+
+https://github.com/xmonad/xmonad
+
+

@@ -1,3 +1,4 @@
+有些记录在README 呢:
 * install
 ** Use a pre-built binary  
   pkg install hs-xmonad  trayer  libghc-xmonad-dev libghc-xmonad-contrib-dev xmobar xcompmgr nitrogen stalonetray moreutils synapse  terminator remmina dmenu dzen rxvt-unicode 
@@ -15,6 +16,7 @@ https://wiki.archlinux.org/index.php/XScreenSaver
 
 
 
+* tray 
 
 
 * usage 
@@ -46,12 +48,10 @@ rednotebook  有是用synapse 启动不了 但是alt+p 可以启动，但是apt 
 
 
 * see also
-<<<<<<< HEAD
 一个容易的入门配置
 https://wiki.haskell.org/Xmonad/Config_archive/John_Goerzen's_Configuration
 =======
 https://wiki.haskell.org/Xmonad
->>>>>>> 87fc1c659dd58d87c163f162d9710ba6c83fdb3b
 
 http://www.ruanyifeng.com/blog/2017/07/xmonad.html
 
