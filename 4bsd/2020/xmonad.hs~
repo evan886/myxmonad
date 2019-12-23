@@ -169,8 +169,8 @@ myKeys conf@(XConfig {XMonad.modMask = modMask}) = M.fromList $
   --mod+p  evan 
   --, ((myModMask, xK_p), spawn "synapse")
   -- evan 2019 mod+d 
-  --, ((myModMask, xK_d), spawn "dmenu_run")
-  , ((modMask, xK_p),
+  , ((myModMask, xK_d), spawn "dmenu_run")
+  --, ((modMask, xK_p),
      spawn myLauncher)
 
   -- Take a selective screenshot using the command specified by mySelectScreenshot.

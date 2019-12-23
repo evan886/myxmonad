@@ -14,17 +14,17 @@
 #but not workspa name 
 #xmobar -d ~/.xmonad/xmobarrc
 
-stalonetray  &
-#stalonetray \
-#  --icon-gravity E \
-# --geometry 5x1-0+0 \
-#  --max-geometry 5x1-0+0 \
-#  --background '#000000' \
-#  --skip-taskbar \
-#  --icon-size 24 \
-#  --kludges force_icons_size \
-#  --window-strut none \
-#  &
+#stalonetray  &
+stalonetray \
+  --icon-gravity E \
+ --geometry 5x1-0+0 \
+  --max-geometry 5x1-0+0 \
+  --background '#000000' \
+  --skip-taskbar \
+  --icon-size 24 \
+  --kludges force_icons_size \
+  --window-strut none \
+  &
 #
 #  这个在bsd上会被全屏盖住
 #  apt install trayer  Set up an icon tray   2016-09-07pm

@@ -40,7 +40,7 @@ if [ -z "$(pgrep xscreensaver)" ] ; then
 xscreensaver -no-splash &
 fi
 # redshift
-if [ -z "$(pgrep remmina)" ] ; then
+if [ -z "$(pgrep redshift)" ] ; then
     redshift   &
     #redshift  -i &
 fi
@@ -69,7 +69,6 @@ fi
 # Use fcitx
 #if [ -z "$(pgrep fcitx)" ] ;
 #then
-#    gnome-do -s &
     fcitx  -r &
 #fi
 
